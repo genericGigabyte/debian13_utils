@@ -1,0 +1,28 @@
+bg1 = #293136
+bg2 = #333C43
+bg3 = #3A464C
+bg4 = #434F55
+bg5 = #4D5960
+bg6 = #555F66
+bg7 = #5D6B66
+
+bga1 = #5C3F4F
+bga2 = #59464C
+bga3 = #55544A
+bga4 = #48584E
+bga5 = #3F5865
+bga6 = #4E4953
+
+fg_default = #D3C6AA
+
+fg_a1 = #E67E80
+fg_a2 = #E69875
+fg_a3 = #DBBC7F
+fg_a4 = #A7C080
+fg_a5 = #83C092
+fg_a6 = #7FBBB3
+fg_a7 = #D699B6
+
+grey1 = #7A8478
+grey2 = #859289
+grey3 = #9DA9A0
